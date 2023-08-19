@@ -44,7 +44,7 @@ Your new action will run any time a pull request has been opened.
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
----
+------------
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
